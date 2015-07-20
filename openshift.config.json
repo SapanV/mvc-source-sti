@@ -1,1 +1,1 @@
-{"OpenShiftServer":"https://ose3-master.example.com:8443","ProjectName":"test-01","BuildConfig":"mvc-source-sti-01","ServiceRoute":"http://mvc-source-sti-01.cloudapps.example.com"}
+{"OpenShiftServer":"https://ose3-master.example.com:8443","ProjectName":"test-05","BuildConfig":"mvc-source-sti-05","ServiceRoute":"http://mvc-source-sti-05.cloudapps.example.com"}
